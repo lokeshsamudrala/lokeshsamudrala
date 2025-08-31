@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Lokesh! 👋
+# Hi there, I'm Lokesh! 👋
 
 ## 🚀 About Me
 
