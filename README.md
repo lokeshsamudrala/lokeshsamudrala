@@ -62,9 +62,9 @@ Full-stack developer with 3+ years of hands-on experience delivering scalable, h
 
 ## 📊 GitHub Stats
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshsamudrala&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshsamudrala&layout=compact&theme=radical)
 
 ## 🏆 Key Achievements
 
